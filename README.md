@@ -1,5 +1,5 @@
 # kenny-learn-web-fullstack
-web全栈开发学习
+## web全栈开发学习,笔记仓库:  https://github.com/kennycaiguo/kenny-web-fullstack-dev
 # 通过10个好玩的游戏来学习 CSS
 1. Flexbox froggy：  https://flexboxfroggy.com/
 《Flexbox froggy》这是一个非常有趣游戏，主要用来学习flex布局。它有 24 个级别，难度逐渐加深。我们可以使用flex 相关的属性将青蛙放到正确的位置，即可过关。
